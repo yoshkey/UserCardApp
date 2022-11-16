@@ -1,0 +1,11 @@
+.avatar {
+    width: 100%;
+    height: auto;
+    padding: 1em;
+}
+
+p{
+    font-family: Futura;
+    margin: 0!important;
+    letter-spacing: 0.02em;
+}
